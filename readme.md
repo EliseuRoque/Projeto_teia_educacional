@@ -1,3 +1,5 @@
+PROJETO DE APLICATIVO PARA TEIA EDUCACIONAL
+
 O que o projeto faz
 Por que o projeto é útil
 Como os usuários podem começar a usar o projeto
